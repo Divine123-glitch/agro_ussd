@@ -1,4 +1,4 @@
-# Agro USSD - Refined (Final)
+# Agro USSD
 
 This is a console-based USSD-like Python application connecting buyers to farmers.
 - Farmers and Buyers have separate JSON stores (`farmers.json`, `buyers.json`).
