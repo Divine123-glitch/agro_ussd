@@ -1,30 +1,38 @@
-import json
-import uuid
-import os
+import json, os, uuid, re
 
 def load_json(filename):
     if not os.path.exists(filename):
         return []
-    with open(filename, "r") as f:
-        try:
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
             return json.load(f)
-        except json.JSONDecodeError:
-            return []
+    except Exception:
+        return []
 
 def save_json(filename, data):
-    with open(filename, "w") as f:
-        json.dump(data, f, indent=4)
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
 
-def generate_id():
+def gen_id():
+    import uuid
     return str(uuid.uuid4())
 
-def validate_phone(phone):
-    return phone.startswith("+234") and phone[4:].isdigit() and len(phone) == 14 or (
-        phone.startswith("0") and phone[1:].isdigit() and len(phone) == 11
-    )
+def title_case(s):
+    try:
+        return s.strip().title()
+    except Exception:
+        return s
 
-def validate_nin(nin):
-    return nin.isdigit() and len(nin) == 11
+def valid_phone(phone):
+    import re
+    if not isinstance(phone, str):
+        return False
+    phone = phone.strip()
+    if re.fullmatch(r'\+234\d{10}', phone):
+        return True
+    if re.fullmatch(r'0\d{10}', phone):
+        return True
+    return False
 
-def title_case(text):
-    return text.title().strip()
+def valid_nin(nin):
+    return isinstance(nin, str) and nin.isdigit() and len(nin) == 11

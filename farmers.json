@@ -1,267 +1,606 @@
 [
     {
-        "id": "eda5785e-8da5-4120-83e6-49f68f4a95e3",
+        "id": "93dc78b9-6349-40f6-b93e-5aaa47e0e273",
         "name": "Abdul Rahman",
-        "phone": "07088045707",
+        "phone": "+2347219075090",
         "password": "farm123",
-        "nin": "70052020864",
-        "location": "Kaduna",
-        "products": [
-            {
-                "product": "Rice",
-                "unit": "litre",
-                "price": "2175"
-            },
-            {
-                "product": "Goat",
-                "unit": "bag",
-                "price": "3188"
-            },
-            {
-                "product": "Chicken",
-                "unit": "crate",
-                "price": "1394"
-            },
-            {
-                "product": "Yam",
-                "unit": "unit",
-                "price": "1929"
-            }
-        ]
-    },
-    {
-        "id": "a622224e-9c61-47ce-8388-eed19a0c4feb",
-        "name": "Ngozi Nwachukwu",
-        "phone": "+2347005874880",
-        "password": "farm123",
-        "nin": "30906514617",
+        "nin": "59416600888",
         "location": "Port Harcourt",
         "products": [
             {
-                "product": "Yam",
+                "product": "Goat",
+                "unit": "bag",
+                "price": 2276,
+                "quantity": 85
+            },
+            {
+                "product": "Fish",
+                "unit": "crate",
+                "price": 4969,
+                "quantity": 109
+            },
+            {
+                "product": "Tomatoes",
                 "unit": "kg",
-                "price": "1598"
+                "price": 4162,
+                "quantity": 67
+            }
+        ],
+        "requests": []
+    },
+    {
+        "id": "17e83def-87fa-4f0f-b0f0-aa5741abe7f0",
+        "name": "Ngozi Nwachukwu",
+        "phone": "07747355534",
+        "password": "farm123",
+        "nin": "45091911662",
+        "location": "Port Harcourt",
+        "products": [
+            {
+                "product": "Fish",
+                "unit": "litre",
+                "price": 4168,
+                "quantity": 31
+            },
+            {
+                "product": "Chicken",
+                "unit": "bag",
+                "price": 3388,
+                "quantity": 78
+            },
+            {
+                "product": "Goat",
+                "unit": "kg",
+                "price": 2619,
+                "quantity": 37
+            },
+            {
+                "product": "Beans",
+                "unit": "litre",
+                "price": 1481,
+                "quantity": 142
+            }
+        ],
+        "requests": []
+    },
+    {
+        "id": "a971a0c6-e27a-46c8-b8a4-aa7ddd8c275a",
+        "name": "Ibrahim Bello",
+        "phone": "07720111762",
+        "password": "farm123",
+        "nin": "53177316944",
+        "location": "Ibadan",
+        "products": [
+            {
+                "product": "Tomatoes",
+                "unit": "crate",
+                "price": 954,
+                "quantity": 82
             },
             {
                 "product": "Tomatoes",
                 "unit": "unit",
-                "price": "2075"
+                "price": 4952,
+                "quantity": 97
+            },
+            {
+                "product": "Tomatoes",
+                "unit": "litre",
+                "price": 3694,
+                "quantity": 16
             },
             {
                 "product": "Fish",
                 "unit": "bag",
-                "price": "4773"
+                "price": 3117,
+                "quantity": 88
             }
-        ]
+        ],
+        "requests": []
     },
     {
-        "id": "e72e309f-ea5e-4186-9897-0732264c821c",
-        "name": "Ibrahim Bello",
-        "phone": "+2347392754861",
+        "id": "7a7c99a3-14a4-4efd-a0fc-284086f81055",
+        "name": "Funke Adebayo",
+        "phone": "07150694557",
         "password": "farm123",
-        "nin": "93743268492",
+        "nin": "76613454193",
+        "location": "Ibadan",
+        "products": [
+            {
+                "product": "Chicken",
+                "unit": "bag",
+                "price": 4952,
+                "quantity": 36
+            },
+            {
+                "product": "Beans",
+                "unit": "crate",
+                "price": 656,
+                "quantity": 79
+            },
+            {
+                "product": "Onion",
+                "unit": "crate",
+                "price": 3855,
+                "quantity": 131
+            }
+        ],
+        "requests": []
+    },
+    {
+        "id": "4239328f-cd08-407f-9b01-7e16b5708e1a",
+        "name": "Chika Nwosu",
+        "phone": "08285261271",
+        "password": "farm123",
+        "nin": "45014913169",
         "location": "Enugu",
         "products": [
             {
-                "product": "Beans",
+                "product": "Yam",
                 "unit": "unit",
-                "price": "4360"
+                "price": 4169,
+                "quantity": 112
             },
             {
-                "product": "Onion",
-                "unit": "kg",
-                "price": "3484"
-            },
-            {
-                "product": "Beans",
+                "product": "Tomatoes",
                 "unit": "crate",
-                "price": "3211"
-            }
-        ]
-    },
-    {
-        "id": "2a87f28f-a74c-49d3-8f40-2e9e163e94f0",
-        "name": "Funke Adebayo",
-        "phone": "+2347543728583",
-        "password": "farm123",
-        "nin": "18657488511",
-        "location": "Kano",
-        "products": [
-            {
-                "product": "Fish",
-                "unit": "litre",
-                "price": "2634"
+                "price": 1814,
+                "quantity": 28
             },
             {
                 "product": "Goat",
-                "unit": "bag",
-                "price": "4139"
+                "unit": "crate",
+                "price": 3482,
+                "quantity": 184
             },
             {
-                "product": "Rice",
-                "unit": "unit",
-                "price": "3477"
-            },
-            {
-                "product": "Rice",
-                "unit": "litre",
-                "price": "4718"
+                "product": "Tomatoes",
+                "unit": "kg",
+                "price": 4151,
+                "quantity": 155
             }
-        ]
+        ],
+        "requests": []
     },
     {
-        "id": "b36136f1-9592-4b48-998d-7d2280126620",
-        "name": "Chika Nwosu",
-        "phone": "08348065061",
+        "id": "b2ae0af9-6363-46e4-858e-2e671b54988d",
+        "name": "Yakubu Garba",
+        "phone": "07972955730",
         "password": "farm123",
-        "nin": "89408564651",
+        "nin": "84225465431",
         "location": "Kaduna",
         "products": [
             {
-                "product": "Onion",
-                "unit": "litre",
-                "price": "4198"
+                "product": "Tomatoes",
+                "unit": "crate",
+                "price": 626,
+                "quantity": 176
             },
             {
-                "product": "Fish",
-                "unit": "bag",
-                "price": "1501"
+                "product": "Beans",
+                "unit": "litre",
+                "price": 4244,
+                "quantity": 162
             },
             {
                 "product": "Yam",
-                "unit": "kg",
-                "price": "2224"
-            }
-        ]
-    },
-    {
-        "id": "cbec8d3e-6abf-40ae-8ef5-15187b047b70",
-        "name": "Yakubu Garba",
-        "phone": "+2348148932846",
-        "password": "farm123",
-        "nin": "28295323753",
-        "location": "Ibadan",
-        "products": [
-            {
-                "product": "Onion",
-                "unit": "unit",
-                "price": "4176"
-            },
-            {
-                "product": "Onion",
                 "unit": "bag",
-                "price": "2794"
+                "price": 2371,
+                "quantity": 31
             },
             {
-                "product": "Pepper",
+                "product": "Rice",
                 "unit": "crate",
-                "price": "1858"
-            },
-            {
-                "product": "Maize",
-                "unit": "crate",
-                "price": "3666"
+                "price": 3777,
+                "quantity": 56
             }
-        ]
+        ],
+        "requests": []
     },
     {
-        "id": "3313a5f1-3335-41b3-8e08-ae41d95711c9",
+        "id": "ced61873-913a-4ce1-be56-d64a67720462",
         "name": "Grace Udo",
-        "phone": "08274401841",
+        "phone": "+2347420600449",
         "password": "farm123",
-        "nin": "47769832883",
-        "location": "Port Harcourt",
-        "products": [
-            {
-                "product": "Chicken",
-                "unit": "kg",
-                "price": "1213"
-            },
-            {
-                "product": "Chicken",
-                "unit": "head",
-                "price": "1310"
-            }
-        ]
-    },
-    {
-        "id": "318b4974-2e26-4011-b136-a4b2ed1d6bbb",
-        "name": "Musa Abdullahi",
-        "phone": "07826371291",
-        "password": "farm123",
-        "nin": "82880870331",
-        "location": "Ibadan",
-        "products": [
-            {
-                "product": "Fish",
-                "unit": "litre",
-                "price": "4606"
-            },
-            {
-                "product": "Goat",
-                "unit": "head",
-                "price": "3403"
-            },
-            {
-                "product": "Maize",
-                "unit": "kg",
-                "price": "2727"
-            }
-        ]
-    },
-    {
-        "id": "d963ae3e-604f-4ed3-8b0c-2a5b51d64ac3",
-        "name": "Patience Iroha",
-        "phone": "07536521166",
-        "password": "farm123",
-        "nin": "83854281661",
+        "nin": "46027187255",
         "location": "Jos",
         "products": [
             {
                 "product": "Maize",
-                "unit": "crate",
-                "price": "3583"
+                "unit": "kg",
+                "price": 4327,
+                "quantity": 8
             },
             {
-                "product": "Tomatoes",
-                "unit": "kg",
-                "price": "2933"
+                "product": "Rice",
+                "unit": "litre",
+                "price": 4385,
+                "quantity": 60
             }
-        ]
+        ],
+        "requests": []
     },
     {
-        "id": "1f0709e4-0c12-45f0-918d-b90a8c01733a",
-        "name": "Oluwaseun Ajayi",
-        "phone": "07559864113",
+        "id": "c9d71a94-2d50-465e-85f3-87ee1e3fa40f",
+        "name": "Musa Abdullahi",
+        "phone": "+2347440627789",
         "password": "farm123",
-        "nin": "66500816147",
-        "location": "Port Harcourt",
+        "nin": "81665552693",
+        "location": "Lagos",
         "products": [
             {
-                "product": "Maize",
+                "product": "Beans",
+                "unit": "kg",
+                "price": 369,
+                "quantity": 150
+            },
+            {
+                "product": "Chicken",
                 "unit": "litre",
-                "price": "2962"
+                "price": 2602,
+                "quantity": 25
+            },
+            {
+                "product": "Chicken",
+                "unit": "kg",
+                "price": 4078,
+                "quantity": 113
+            },
+            {
+                "product": "Chicken",
+                "unit": "crate",
+                "price": 3698,
+                "quantity": 163
+            }
+        ],
+        "requests": []
+    },
+    {
+        "id": "36fb287e-fb44-412f-9eea-0cc736b7f48c",
+        "name": "Patience Iroha",
+        "phone": "07790145750",
+        "password": "farm123",
+        "nin": "26301126364",
+        "location": "Kano",
+        "products": [
+            {
+                "product": "Yam",
+                "unit": "bag",
+                "price": 4514,
+                "quantity": 81
+            },
+            {
+                "product": "Maize",
+                "unit": "kg",
+                "price": 1764,
+                "quantity": 128
             },
             {
                 "product": "Goat",
-                "unit": "head",
-                "price": "2167"
+                "unit": "kg",
+                "price": 3665,
+                "quantity": 175
             }
-        ]
+        ],
+        "requests": []
     },
     {
-        "id": "b65661cd-2b6b-451d-9b86-43be70867118",
-        "name": "Gbadamosi Divine",
-        "phone": "07066739509",
-        "password": "1234",
-        "nin": "12345678912",
-        "location": "Ijebu",
+        "id": "3b2f3d5c-2a96-4e2a-b616-9011604c384d",
+        "name": "Oluwaseun Ajayi",
+        "phone": "+2348219363048",
+        "password": "farm123",
+        "nin": "18950351987",
+        "location": "Lagos",
         "products": [
             {
-                "product": "Cow",
-                "unit": "head",
-                "price": "500000"
+                "product": "Yam",
+                "unit": "unit",
+                "price": 2107,
+                "quantity": 52
+            },
+            {
+                "product": "Onion",
+                "unit": "crate",
+                "price": 3510,
+                "quantity": 30
+            },
+            {
+                "product": "Tomatoes",
+                "unit": "crate",
+                "price": 4151,
+                "quantity": 129
             }
-        ]
+        ],
+        "requests": []
+    },
+    {
+        "id": "1b3bcff6-e0b9-4ffb-b947-d8d5029b2165",
+        "name": "Hassan Usman",
+        "phone": "+2347148380305",
+        "password": "farm123",
+        "nin": "88604584855",
+        "location": "Abuja",
+        "products": [
+            {
+                "product": "Tomatoes",
+                "unit": "bag",
+                "price": 2502,
+                "quantity": 146
+            },
+            {
+                "product": "Tomatoes",
+                "unit": "unit",
+                "price": 2277,
+                "quantity": 96
+            },
+            {
+                "product": "Pepper",
+                "unit": "kg",
+                "price": 2974,
+                "quantity": 76
+            },
+            {
+                "product": "Beans",
+                "unit": "crate",
+                "price": 2713,
+                "quantity": 37
+            }
+        ],
+        "requests": []
+    },
+    {
+        "id": "1b65f1d8-d016-45e0-9a11-860b702af7ea",
+        "name": "Ebere Okonkwo",
+        "phone": "08356955324",
+        "password": "farm123",
+        "nin": "52235345186",
+        "location": "Ibadan",
+        "products": [
+            {
+                "product": "Yam",
+                "unit": "bag",
+                "price": 1475,
+                "quantity": 172
+            },
+            {
+                "product": "Yam",
+                "unit": "kg",
+                "price": 3936,
+                "quantity": 120
+            },
+            {
+                "product": "Rice",
+                "unit": "litre",
+                "price": 3798,
+                "quantity": 143
+            }
+        ],
+        "requests": []
+    },
+    {
+        "id": "617d5bf3-ff88-458a-bf62-ea2940d3399c",
+        "name": "Peter Akande",
+        "phone": "+2348590320220",
+        "password": "farm123",
+        "nin": "91589475928",
+        "location": "Kaduna",
+        "products": [
+            {
+                "product": "Onion",
+                "unit": "litre",
+                "price": 600,
+                "quantity": 28
+            },
+            {
+                "product": "Chicken",
+                "unit": "kg",
+                "price": 2162,
+                "quantity": 33
+            }
+        ],
+        "requests": []
+    },
+    {
+        "id": "19748906-8242-47d0-a213-875b77bdc2c1",
+        "name": "Halima Yusuf",
+        "phone": "07267021948",
+        "password": "farm123",
+        "nin": "18679349388",
+        "location": "Port Harcourt",
+        "products": [
+            {
+                "product": "Onion",
+                "unit": "kg",
+                "price": 1618,
+                "quantity": 37
+            },
+            {
+                "product": "Pepper",
+                "unit": "litre",
+                "price": 2593,
+                "quantity": 31
+            },
+            {
+                "product": "Fish",
+                "unit": "kg",
+                "price": 4262,
+                "quantity": 12
+            },
+            {
+                "product": "Goat",
+                "unit": "litre",
+                "price": 3118,
+                "quantity": 126
+            }
+        ],
+        "requests": []
+    },
+    {
+        "id": "a61907c5-8b6d-4d30-9b02-eea35e485659",
+        "name": "Collins Nnamdi",
+        "phone": "08504807894",
+        "password": "farm123",
+        "nin": "15625756364",
+        "location": "Port Harcourt",
+        "products": [
+            {
+                "product": "Chicken",
+                "unit": "kg",
+                "price": 3203,
+                "quantity": 94
+            },
+            {
+                "product": "Rice",
+                "unit": "litre",
+                "price": 4614,
+                "quantity": 150
+            },
+            {
+                "product": "Beans",
+                "unit": "litre",
+                "price": 3071,
+                "quantity": 152
+            },
+            {
+                "product": "Beans",
+                "unit": "crate",
+                "price": 1545,
+                "quantity": 169
+            }
+        ],
+        "requests": []
+    },
+    {
+        "id": "f43ea9ca-0c55-44b3-8e04-eda31d559250",
+        "name": "Joy Obong",
+        "phone": "08398114865",
+        "password": "farm123",
+        "nin": "68054652306",
+        "location": "Enugu",
+        "products": [
+            {
+                "product": "Tomatoes",
+                "unit": "crate",
+                "price": 4325,
+                "quantity": 19
+            },
+            {
+                "product": "Fish",
+                "unit": "bag",
+                "price": 3712,
+                "quantity": 109
+            },
+            {
+                "product": "Chicken",
+                "unit": "kg",
+                "price": 2183,
+                "quantity": 47
+            }
+        ],
+        "requests": []
+    },
+    {
+        "id": "a876867e-9e69-4541-bb0f-b28a52f1b69d",
+        "name": "Bashir Mohammed",
+        "phone": "+2348045926459",
+        "password": "farm123",
+        "nin": "21510779872",
+        "location": "Jos",
+        "products": [
+            {
+                "product": "Goat",
+                "unit": "kg",
+                "price": 2203,
+                "quantity": 199
+            },
+            {
+                "product": "Beans",
+                "unit": "litre",
+                "price": 2318,
+                "quantity": 116
+            },
+            {
+                "product": "Maize",
+                "unit": "bag",
+                "price": 3692,
+                "quantity": 168
+            }
+        ],
+        "requests": []
+    },
+    {
+        "id": "4d83a9b4-794d-42d8-b762-835f167a7b5c",
+        "name": "Modupe Alabi",
+        "phone": "+2347304629700",
+        "password": "farm123",
+        "nin": "35586025778",
+        "location": "Lagos",
+        "products": [
+            {
+                "product": "Rice",
+                "unit": "kg",
+                "price": 2451,
+                "quantity": 164
+            },
+            {
+                "product": "Yam",
+                "unit": "bag",
+                "price": 3805,
+                "quantity": 45
+            }
+        ],
+        "requests": []
+    },
+    {
+        "id": "4e9696da-f971-42dc-86d9-383df1259914",
+        "name": "Uchenna Ibe",
+        "phone": "08933706305",
+        "password": "farm123",
+        "nin": "79345189104",
+        "location": "Kano",
+        "products": [
+            {
+                "product": "Tomatoes",
+                "unit": "crate",
+                "price": 2146,
+                "quantity": 133
+            },
+            {
+                "product": "Rice",
+                "unit": "bag",
+                "price": 1518,
+                "quantity": 29
+            },
+            {
+                "product": "Fish",
+                "unit": "kg",
+                "price": 2737,
+                "quantity": 141
+            }
+        ],
+        "requests": []
+    },
+    {
+        "id": "34a06a5a-d2f3-4d63-8224-825fab18b8ba",
+        "name": "Faith Johnson",
+        "phone": "07474321514",
+        "password": "farm123",
+        "nin": "81405888241",
+        "location": "Jos",
+        "products": [
+            {
+                "product": "Tomatoes",
+                "unit": "bag",
+                "price": 1717,
+                "quantity": 177
+            },
+            {
+                "product": "Tomatoes",
+                "unit": "crate",
+                "price": 3602,
+                "quantity": 125
+            }
+        ],
+        "requests": []
     }
 ]

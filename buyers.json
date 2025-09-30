@@ -1,90 +1,190 @@
 [
     {
-        "id": "b7eeb0f9-cff8-4982-b3c4-3b6888c3555b",
+        "id": "3fc162b2-1854-4647-ba74-31698d80e925",
         "name": "John Adewale",
-        "phone": "08447094995",
+        "phone": "08466388075",
         "password": "pass123",
-        "nin": "22855958150",
-        "location": "Benin"
+        "nin": "82607666716",
+        "location": "Lagos",
+        "requests": [
+            {
+                "id": "226e820e-5f7a-4474-a36c-80f8ce9c8fc3",
+                "buyer_id": "3fc162b2-1854-4647-ba74-31698d80e925",
+                "buyer_name": "John Adewale",
+                "product": "Maize",
+                "quantity": 20
+            }
+        ]
     },
     {
-        "id": "d43a00e3-e06c-4efc-94dc-f53a752d2b1a",
+        "id": "8b20892f-6de5-4d2e-b333-f179727b465d",
         "name": "Mary Okoro",
-        "phone": "08690549848",
+        "phone": "07802353070",
         "password": "pass123",
-        "nin": "50365313368",
-        "location": "Owerri"
+        "nin": "12979459655",
+        "location": "Kano",
+        "requests": []
     },
     {
-        "id": "45f40e35-444d-428d-aada-bc6cb95133f3",
+        "id": "ccee04e7-9626-4b54-8bc3-466a72b74ebf",
         "name": "Blessing Yusuf",
-        "phone": "08212870160",
+        "phone": "+2348973893246",
         "password": "pass123",
-        "nin": "79147976093",
-        "location": "Owerri"
+        "nin": "86437732012",
+        "location": "Port Harcourt",
+        "requests": []
     },
     {
-        "id": "2d6b57db-7805-4740-a6d7-76ef2706e10e",
+        "id": "ee7b4be7-8397-4a5c-bce7-63f7e7c76b57",
         "name": "Emeka Obi",
-        "phone": "+2348147207993",
+        "phone": "+2348383713559",
         "password": "pass123",
-        "nin": "37084537489",
-        "location": "Owerri"
+        "nin": "82570384079",
+        "location": "Port Harcourt",
+        "requests": []
     },
     {
-        "id": "4a1d77f1-e781-4cdb-9e44-eafd004d3ece",
+        "id": "5895f279-b45c-46a8-a783-926fb3fa855a",
         "name": "Amaka Umeh",
-        "phone": "08855346430",
+        "phone": "07284298281",
         "password": "pass123",
-        "nin": "19704660512",
-        "location": "Enugu"
+        "nin": "98221267161",
+        "location": "Ibadan",
+        "requests": []
     },
     {
-        "id": "f71530af-e5dc-4913-b213-afcd34606187",
+        "id": "fce9ef15-e0f2-4950-bb81-23960755cded",
         "name": "Tunde Afolayan",
-        "phone": "+2347350766421",
+        "phone": "08544646748",
         "password": "pass123",
-        "nin": "23122814899",
-        "location": "Abuja"
+        "nin": "33967840709",
+        "location": "Kano",
+        "requests": []
     },
     {
-        "id": "93763b11-1f9f-4d90-b415-e16161f4d18b",
+        "id": "4a84359c-6a69-4511-b52c-26be3daba825",
         "name": "Chinedu Eze",
-        "phone": "+2348197932332",
+        "phone": "+2348515560885",
         "password": "pass123",
-        "nin": "60353626990",
-        "location": "Kaduna"
+        "nin": "70972308522",
+        "location": "Port Harcourt",
+        "requests": []
     },
     {
-        "id": "edbdaa17-2dcf-43c3-88da-2c631b3d1d06",
+        "id": "7fa38bc1-b113-48c6-b3b8-39a7ace9caad",
         "name": "Kemi Balogun",
-        "phone": "07110662399",
+        "phone": "+2348978653535",
         "password": "pass123",
-        "nin": "92305021128",
-        "location": "Enugu"
+        "nin": "63280925207",
+        "location": "Port Harcourt",
+        "requests": []
     },
     {
-        "id": "b23a795e-ca70-4fd8-ba9e-455cf1e32bcd",
+        "id": "8f1da5f9-066e-4c4d-9ad6-1214db06e55a",
         "name": "Samuel Ojo",
-        "phone": "08922999303",
+        "phone": "+2347314372644",
         "password": "pass123",
-        "nin": "73213916751",
-        "location": "Benin"
+        "nin": "71988291329",
+        "location": "Lagos",
+        "requests": []
     },
     {
-        "id": "0e5a4708-82aa-46e7-937b-ca97e41c2c72",
+        "id": "45adf15a-dfcc-4626-81b6-b08f3af8a4b8",
         "name": "Esther Bassey",
-        "phone": "+2347078575452",
+        "phone": "+2348672271609",
         "password": "pass123",
-        "nin": "67918546604",
-        "location": "Benin"
+        "nin": "70843214900",
+        "location": "Ibadan",
+        "requests": []
     },
     {
-        "id": "f54bfdce-b72d-4050-b993-f0e2e6b7d113",
-        "name": "Feranmi Gbadamosi",
-        "phone": "07086807232",
-        "password": "1345",
-        "nin": "23456789012",
-        "location": "Remo"
+        "id": "c02a9095-c869-464a-8fca-6d814c651bfb",
+        "name": "Ahmed Musa",
+        "phone": "08166017856",
+        "password": "pass123",
+        "nin": "40010632303",
+        "location": "Port Harcourt",
+        "requests": []
+    },
+    {
+        "id": "402f0d62-55f4-48e8-89c1-8871c9506a90",
+        "name": "Fatima Bello",
+        "phone": "+2349060216497",
+        "password": "pass123",
+        "nin": "86767494437",
+        "location": "Kano",
+        "requests": []
+    },
+    {
+        "id": "c9f903c4-d217-4f40-9434-aae9be62a8d5",
+        "name": "Joseph Adeyemi",
+        "phone": "08771478956",
+        "password": "pass123",
+        "nin": "61778787353",
+        "location": "Lagos",
+        "requests": []
+    },
+    {
+        "id": "4357b2b4-046b-4b91-addf-89e97f9f03d8",
+        "name": "Patricia Udo",
+        "phone": "+2347179056603",
+        "password": "pass123",
+        "nin": "49911812827",
+        "location": "Kano",
+        "requests": []
+    },
+    {
+        "id": "2d850381-4e49-46a1-a81c-3fd7d16a04bc",
+        "name": "Chinonso Okeke",
+        "phone": "07475791024",
+        "password": "pass123",
+        "nin": "28547281160",
+        "location": "Ibadan",
+        "requests": []
+    },
+    {
+        "id": "3dfc23b1-4127-48eb-af7f-0c65938cb00f",
+        "name": "Victoria Akpan",
+        "phone": "08788965112",
+        "password": "pass123",
+        "nin": "10067117482",
+        "location": "Port Harcourt",
+        "requests": []
+    },
+    {
+        "id": "bfbe0c11-8e40-46b3-968e-3736e0e4d0c6",
+        "name": "Ifeanyi Okafor",
+        "phone": "08864914477",
+        "password": "pass123",
+        "nin": "36323538866",
+        "location": "Abuja",
+        "requests": []
+    },
+    {
+        "id": "6114d661-aa84-4129-9718-6205c839f43f",
+        "name": "Ruth Danjuma",
+        "phone": "08789151603",
+        "password": "pass123",
+        "nin": "77647512399",
+        "location": "Lagos",
+        "requests": []
+    },
+    {
+        "id": "08cf8071-1f57-4cdf-b893-e0a9878f2364",
+        "name": "Ibrahim Lawal",
+        "phone": "08421355902",
+        "password": "pass123",
+        "nin": "21840495247",
+        "location": "Port Harcourt",
+        "requests": []
+    },
+    {
+        "id": "88be1b19-ce4e-4b7b-89f8-95f51162eddc",
+        "name": "Grace Oladipo",
+        "phone": "08283212672",
+        "password": "pass123",
+        "nin": "39591828715",
+        "location": "Lagos",
+        "requests": []
     }
 ]
