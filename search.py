@@ -20,7 +20,9 @@ def search_by_product(previous_menu_callback=None):
         print(f"Found {len(results)} farmer(s):")
         for idx, f in enumerate(results, 1):
             try:
+                print("=================================")
                 print(f"\n{idx}. {f.get('name')} | Product: {f.get('product')} | Price: {f.get('price')}/{f.get('unit')} | Location: {f.get('location')} | Phone: {f.get('phone')}")
+                print("=================================")
             except Exception:
                 continue
 
