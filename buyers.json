@@ -1,142 +1,90 @@
 [
     {
-        "id": "6074dfda-a330-4898-8c4a-a7ec8f2b8e5a",
+        "id": "b7eeb0f9-cff8-4982-b3c4-3b6888c3555b",
         "name": "John Adewale",
-        "nin": "10000000001",
-        "phone": "08011000001",
-        "password": "pass01"
+        "phone": "08447094995",
+        "password": "pass123",
+        "nin": "22855958150",
+        "location": "Benin"
     },
     {
-        "id": "62271fc6-ccdd-42ee-ab70-33528dbffffb",
+        "id": "d43a00e3-e06c-4efc-94dc-f53a752d2b1a",
         "name": "Mary Okoro",
-        "nin": "10000000002",
-        "phone": "+234801000002",
-        "password": "pass02"
+        "phone": "08690549848",
+        "password": "pass123",
+        "nin": "50365313368",
+        "location": "Owerri"
     },
     {
-        "id": "a55152de-ed07-4718-9cd5-122ed15c008b",
+        "id": "45f40e35-444d-428d-aada-bc6cb95133f3",
         "name": "Blessing Yusuf",
-        "nin": "10000000003",
-        "phone": "08011000003",
-        "password": "pass03"
+        "phone": "08212870160",
+        "password": "pass123",
+        "nin": "79147976093",
+        "location": "Owerri"
     },
     {
-        "id": "83507604-82b7-4bb8-99d9-51fbca94d2e5",
-        "name": "Ifeanyi Umeh",
-        "nin": "10000000004",
-        "phone": "+234801000004",
-        "password": "pass04"
-    },
-    {
-        "id": "a62ab89b-8b01-49fc-9047-1eda50d09f27",
-        "name": "Chika Nwosu",
-        "nin": "10000000005",
-        "phone": "08011000005",
-        "password": "pass05"
-    },
-    {
-        "id": "56f5ed28-370f-48ba-a2b6-12f55c787a29",
-        "name": "Bola Adeniran",
-        "nin": "10000000006",
-        "phone": "+234801000006",
-        "password": "pass06"
-    },
-    {
-        "id": "d28d7617-64c6-4e68-8679-4bf9097a80fd",
+        "id": "2d6b57db-7805-4740-a6d7-76ef2706e10e",
         "name": "Emeka Obi",
-        "nin": "10000000007",
-        "phone": "08011000007",
-        "password": "pass07"
+        "phone": "+2348147207993",
+        "password": "pass123",
+        "nin": "37084537489",
+        "location": "Owerri"
     },
     {
-        "id": "e9a3f10e-1f14-45f7-aeaa-9577a021f834",
-        "name": "Grace Eze",
-        "nin": "10000000008",
-        "phone": "+234801000008",
-        "password": "pass08"
+        "id": "4a1d77f1-e781-4cdb-9e44-eafd004d3ece",
+        "name": "Amaka Umeh",
+        "phone": "08855346430",
+        "password": "pass123",
+        "nin": "19704660512",
+        "location": "Enugu"
     },
     {
-        "id": "cb37b67e-1948-4411-81fe-9cf0e695df37",
-        "name": "Hassan Bello",
-        "nin": "10000000009",
-        "phone": "08011000009",
-        "password": "pass09"
+        "id": "f71530af-e5dc-4913-b213-afcd34606187",
+        "name": "Tunde Afolayan",
+        "phone": "+2347350766421",
+        "password": "pass123",
+        "nin": "23122814899",
+        "location": "Abuja"
     },
     {
-        "id": "12b200a7-5987-487a-87a9-880cb991c44d",
-        "name": "Ngozi Anozie",
-        "nin": "10000000010",
-        "phone": "+234801000010",
-        "password": "pass10"
+        "id": "93763b11-1f9f-4d90-b415-e16161f4d18b",
+        "name": "Chinedu Eze",
+        "phone": "+2348197932332",
+        "password": "pass123",
+        "nin": "60353626990",
+        "location": "Kaduna"
     },
     {
-        "id": "241ba632-57de-494b-afab-1e815cd0b074",
-        "name": "Amina Abdullahi",
-        "nin": "10000000011",
-        "phone": "08011000011",
-        "password": "pass11"
+        "id": "edbdaa17-2dcf-43c3-88da-2c631b3d1d06",
+        "name": "Kemi Balogun",
+        "phone": "07110662399",
+        "password": "pass123",
+        "nin": "92305021128",
+        "location": "Enugu"
     },
     {
-        "id": "ca8d54d9-1743-40c7-8409-0d13f75610e3",
-        "name": "David Olukunle",
-        "nin": "10000000012",
-        "phone": "+234801000012",
-        "password": "pass12"
+        "id": "b23a795e-ca70-4fd8-ba9e-455cf1e32bcd",
+        "name": "Samuel Ojo",
+        "phone": "08922999303",
+        "password": "pass123",
+        "nin": "73213916751",
+        "location": "Benin"
     },
     {
-        "id": "92c669db-6238-45e4-b966-835baee05237",
-        "name": "Kemi Afolabi",
-        "nin": "10000000013",
-        "phone": "08011000013",
-        "password": "pass13"
+        "id": "0e5a4708-82aa-46e7-937b-ca97e41c2c72",
+        "name": "Esther Bassey",
+        "phone": "+2347078575452",
+        "password": "pass123",
+        "nin": "67918546604",
+        "location": "Benin"
     },
     {
-        "id": "deb9a7cd-28fe-4a9e-90ff-517ec83f8156",
-        "name": "Sola Ojo",
-        "nin": "10000000014",
-        "phone": "+234801000014",
-        "password": "pass14"
-    },
-    {
-        "id": "9b9b3bfb-d0ab-4691-b868-346145c88860",
-        "name": "Ibrahim Ade",
-        "nin": "10000000015",
-        "phone": "08011000015",
-        "password": "pass15"
-    },
-    {
-        "id": "ada007ee-3fc4-4c16-ba49-583b24814a6e",
-        "name": "Funke Ogunde",
-        "nin": "10000000016",
-        "phone": "+234801000016",
-        "password": "pass16"
-    },
-    {
-        "id": "22e3e26c-7453-4894-88dc-db658e977663",
-        "name": "Tayo Balogun",
-        "nin": "10000000017",
-        "phone": "08011000017",
-        "password": "pass17"
-    },
-    {
-        "id": "84009140-a2b3-463d-a77d-a89ba64f87f4",
-        "name": "Nkem Udo",
-        "nin": "10000000018",
-        "phone": "+234801000018",
-        "password": "pass18"
-    },
-    {
-        "id": "1657e9c2-7811-4caf-873c-35582313a0f0",
-        "name": "Samuel Akintola",
-        "nin": "10000000019",
-        "phone": "08011000019",
-        "password": "pass19"
-    },
-    {
-        "id": "60a085ae-c89c-4465-b464-162b6245dfe8",
-        "name": "Ruth Nwachukwu",
-        "nin": "10000000020",
-        "phone": "+234801000020",
-        "password": "pass20"
+        "id": "f54bfdce-b72d-4050-b993-f0e2e6b7d113",
+        "name": "Feranmi Gbadamosi",
+        "phone": "07086807232",
+        "password": "1345",
+        "nin": "23456789012",
+        "location": "Remo"
     }
 ]

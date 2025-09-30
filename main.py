@@ -3,20 +3,39 @@ from buyer import Buyer
 
 def main_menu():
     while True:
-        print("\n=== Agro USSD Platform ===")
-        print("1. Farmer Login/Register")
-        print("2. Buyer Login/Register (required to search)")
-        print("3. Exit")
-        choice = input("Select option: ").strip()
+        print("\n--- AGRO USSD PLATFORM ---")
+        print("1. Register as Farmer")
+        print("2. Login as Farmer")
+        print("3. Register as Buyer")
+        print("4. Login as Buyer")
+        print("5. Exit")
+
+        choice = input("Choose option: ").strip()
         if choice == "1":
-            Farmer.menu()
+            Farmer.register()
         elif choice == "2":
-            Buyer.menu()
+            Farmer.login()
         elif choice == "3":
-            print("Exiting program. Goodbye!")
+            Buyer.register()
+        elif choice == "4":
+            buyer = Buyer.login()
+            if buyer:
+                while True:
+                    print("\n--- BUYER MENU ---")
+                    print("1. Search Farmers")
+                    print("2. Logout")
+                    ch = input("Choose option: ").strip()
+                    if ch == "1":
+                        Buyer.search_farmers()
+                    elif ch == "2":
+                        break
+                    else:
+                        print("❌ Invalid choice.")
+        elif choice == "5":
+            print("Exiting...")
             break
         else:
-            print("Invalid option. Try again.")
+            print("❌ Invalid choice.")
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main_menu()
