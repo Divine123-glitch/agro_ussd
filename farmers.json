@@ -216,6 +216,12 @@
                 "unit": "litre",
                 "price": 4385,
                 "quantity": 60
+            },
+            {
+                "product": "Yam",
+                "unit": "kg",
+                "price": 4000.0,
+                "quantity": 1000
             }
         ],
         "requests": []
